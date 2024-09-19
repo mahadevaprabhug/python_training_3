@@ -1,0 +1,36 @@
+###################
+# Notes on github
+###################
+
+# 4 Steps
+# ----------------
+# Step-1: Local GIT repository (In Our laptop)
+#
+#       - download and install git software
+#           https://git-scm.com/downloads
+#
+#       - create local git repository (In Our laptop)
+#           -- open terminal/cmd-prompt
+#           -- cd to python_training
+#           -- git init
+#           NOW python_training folder is GIT repository
+#
+#       - add all files to local git repository (In Our laptop)
+#           -- git add -A OR git add --all OR git add filename OR git add folder_name
+#
+#       - save/commit all files to local git repository (In Our laptop)
+#           -- git commit -m "my python training code"
+#
+# Step-2: remote github repository (https://www.github.com)
+#       - create/signup account in https://www.github.com
+#       - create new repository
+#
+# Step-3: local repository (laptop) to remote repository (https://www.github.com)
+#       - link local repository (laptop) and to remote repository (https://www.github.com)
+#       - push all code to remote repository (https://www.github.com)
+#
+# Step-4: remote repository (https://www.github.com) to local repository (laptop)
+#       - create new local git repository
+#       - link local repository (laptop) and to remote repository (https://www.github.com)
+#       - pull all code from remote repository to local repository
+##################

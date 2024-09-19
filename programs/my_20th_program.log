@@ -1,0 +1,17 @@
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:20,996 : THIS IS FOR TESTING OUR LOGGER
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:20,996 : This is info
+WARNING : 20_program_on_logging.py : 2024-09-18 17:41:20,996 : This is warning
+CRITICAL : 20_program_on_logging.py : 2024-09-18 17:41:20,996 : This is critical
+ERROR : 20_program_on_logging.py : 2024-09-18 17:41:20,996 : This is error
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:20,996 : THIS IS END TESTING OUR LOGGER
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:20,996 : Opening log_report_4.json
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,003 : Opening log_report_4.json SUCCESS
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,005 : Importing json library
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,008 : Importing json library success
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,009 : Reading json file
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,009 : Reading json file Success
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,009 : closing json file
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,009 : Closing json file completed
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,009 : Writing to log_report_5.txt
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,009 : Started writing to file
+INFO : 20_program_on_logging.py : 2024-09-18 17:41:21,010 : Writing completed and log_report_5.txt created
